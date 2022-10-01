@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+
+ 
+  .container {
+    border-radius: 5px;
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
+  .column {
+   display: inline-block;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+
+  .picture {
+    height: 200px;
+  }
+  
+
+  
+  
+  
