@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.contact_img {
+    background-image: url(/images/contact_us.jpg);
+    width: 400px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.contacts_content {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
